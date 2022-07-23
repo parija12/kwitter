@@ -1,0 +1,12 @@
+1. Part 1: Update the HTML element with user name.
+
+2. Part 2: addRoom() function, this function should be called when the “Add Room"
+button is clicked.
+
+3. Part 3: The getData() function, this function gets all the room names from firebase
+and displays on kwitter_room.html
+
+4. Part 4: redirectToRoomName() function, this function should be called when we
+click on any room name under the #TRENDINGROOMS
+
+5. Part 5: logout() function, this function will be covered in the next class
